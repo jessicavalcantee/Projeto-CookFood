@@ -94,10 +94,9 @@ microserviços.
 
 **_Contribuições são bem-vindas! Sinta-se à vontade!_** 🙂
 
+# Documentação Completa CookFood 
 
-
-
-
+[Projeto CookFood - Final.pdf](https://github.com/user-attachments/files/18303850/Projeto.CookFood.-.Final.pdf)
 
 
 
